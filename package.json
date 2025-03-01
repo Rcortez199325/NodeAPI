@@ -1,0 +1,23 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "node api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rcortez199325/NodeAPI.git"
+  },
+  "author": "rcortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rcortez199325/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/Rcortez199325/NodeAPI#readme",
+  "devDependencies": {
+    "express": "^4.21.2"
+  }
+}

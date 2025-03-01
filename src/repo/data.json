@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "userId": 1000,
+      "username": "rcortez",
+      "password": "Admin$1000",
+      "email": "rcortez@empresa.com",
+      "isVerified": true,
+      "rol": ["User", "Admin"]
+    },
+    {
+      "userId": 1001,
+      "username": "aacosta",
+      "password": "Admin$1001",
+      "email": "aacosta@empresa.com",
+      "isVerified": true,
+      "rol": ["User"]
+    },
+    {
+      "userId": 1002,
+      "username": "cvalenzuela",
+      "password": "Admin$1002",
+      "email": "cvalenzuela@empresa.com",
+      "isVerified": false,
+      "rol": ["User"]
+    }
+  ]
+}
